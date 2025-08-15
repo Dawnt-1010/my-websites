@@ -137,7 +137,7 @@
 
   <!-- HEADER -->
   <header>
-    <span class="badge">💙 Xanh & Trắng — gọn gàng, mát mắt</span>
+    <span class="badge">💙 Xanh & Trắng — gọn gàng, mát mát</span>
     <h1>Lê Đăng Tiến</h1>
     <p class="subtitle">Sinh viên Công Nghệ Thông Tin — Đại Học Sài Gòn</p>
   </header>
@@ -161,8 +161,8 @@
     <!-- CỘT PHẢI: GIỚI THIỆU & LỊCH -->
     <section class="card bio">
       <h2 style="margin:4px 0 10px">Giới thiệu nhanh</h2>
-      <p>Xin chào! Mình là Tiến. Mục tiêu của mình là trở thành lập trình viên web full‑stack.
-        Trang này được thiết kế với tông xanh – trắng, nền đám mây, sao lấp lánh và hoạ tiết caro để tạo cảm giác mát mắt, sinh động.</p>
+      <p>Xin chào các con vk của anh. không biết các em đã đớp gì vào mồm chưa nhỉ,chưa hay rồi thì nhắn cho anh biết nhá.
+        Để anh gửi em cái thời khóa biểu hằng ngày của anh nhaa 💙.</p>
 
       <h2 id="lich" style="margin:20px 0 10px">Lịch hoạt động trong ngày</h2>
       <div class="table-card">
